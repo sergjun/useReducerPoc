@@ -1,6 +1,6 @@
 # useReducer simpliest poc
 
-Some hand ons to understand better the use of useReducer, much better than use Redux imho.
+Some hand on to understand better the use of useReducer, much better than use Redux imho.
 
 # Install
 
